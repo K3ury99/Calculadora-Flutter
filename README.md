@@ -2,8 +2,13 @@
 > [!TIP]  
 > This is a Flutter project focused on making a basic and scientific calculator with features like light and dark mode and a section with the history of calculations made.
 <div style="display: flex;">
-  <img src="" width="49%"></img>   
-  <img src="" width="49%"></img> 
+  <img src="https://github.com/user-attachments/assets/d198024d-8384-4e70-9ac0-4b6ce5d98407" width="49%"></img>   
+  <img src="https://github.com/user-attachments/assets/3482f3b7-d155-4736-9fe3-20f4fccc20f2" width="49%"></img> 
+</div>
+
+<div style="display: flex;">
+  <img src="https://github.com/user-attachments/assets/5350c1bc-b736-42a3-90d0-f77f75b2c1e1" width="49%"></img> 
+  <img src="https://github.com/user-attachments/assets/f57dddd1-25b8-4a91-9b61-6b417ec7c89d" width="49%"></img>   
 </div>
 
 # 🗝 How to use it  
