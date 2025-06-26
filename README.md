@@ -26,11 +26,31 @@ flutter run -d Edge
 ```
 
 # ✨ Features
-✅ Form handling with validation  
-✅ User input validation with custom functions  
-✅ Organized structure with services and models  
-✅ Modern UI using Flutter Material  
-✅ Easy-to-read and maintainable code  
+🧮 Scientific and Basic Calculations
+- Support for basic arithmetic operations: addition, subtraction, multiplication, division.
+- Support for advanced operations: logarithms, powers, roots, trigonometric functions (sin, cos, tan), constants (π, e), parentheses.
+- Percentage support with real logic: for example, 50,000 - 10% correctly results in 45,000.
+- Interpretation of custom operators (×, ÷, √, etc.).
+- Expression evaluation using the math_expressions library.
+
+# 💡 Enhanced User Experience (UX/UI)
+- Light and dark mode with dynamic switching via the top bar button.
+- Numeric input with automatic thousand separators (commas) for better readability.
+- Numerically formatted output with thousand separators.
+- Clean and modern design, with responsive and well-organized buttons.
+
+# 🔄 Dynamic Switch Between Basic and Advanced Functions
+- A “Functions” switch or button to toggle between basic and scientific keys.
+- Basic functions are shown by default to simplify the experience.
+
+# 🕒 Calculation History
+- Dedicated page to view the history of performed calculations.
+- History saved locally during the session.
+- Access to history from the top bar.
+
+# 🖥️ Cross-Platform Compatibility
+- Can run on Android, iOS, Web, Windows, macOS, and Linux (with proper configuration).
+- Optimized to build as a desktop or mobile app.
 
 # 🐱‍👤 Contributing
 1. **Fork the repo**
