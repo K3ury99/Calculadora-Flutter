@@ -1,4 +1,4 @@
-# 🚀 Flutter scientific calculator
+# 🚀 Flutter Scientific Calculator
 > [!TIP]  
 > This is a Flutter project focused on making a basic and scientific calculator with features like light and dark mode and a section with the history of calculations made.
 <div style="display: flex;">
